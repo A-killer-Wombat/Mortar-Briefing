@@ -83,15 +83,15 @@ _mortar101 = player createDiaryRecord ["diary", ["Mortar 101", "
 <br/><font size='18' color='#FF7F00'>Basic Tutorial</font>
 <br/><font size='16'>1.</font> Locate target on map:
 <br/>
-<br/><img image='Mortar101_1.jpg'/>
+<br/><img image='mortar101_1.jpg'/>
 <br/>
 <br/><font size='16'>2.</font> Place waypoint on target:
 <br/>
-<br/><img image='Mortar101_2.jpg'/>
+<br/><img image='mortar101_2.jpg'/>
 <br/>
 <br/><font size='16'>3.</font> Aim mortar sight at waypoint and note displayed <font color='#FF00FF'>RANGE</font>:
 <br/>
-<br/><img image='Mortar101_3.jpg'/>
+<br/><img image='mortar101_3.jpg'/>
 <br/>
 <br/><font size='16'>4.</font> Reference 'Range Table', locate <font color='#FF00FF'>RANGE</font> and note corresponding <font color='#00FF00'>CHARGE TYPE</font color>, <font color='#00FFFF'>ELEVATION</font color> and <font color='#FFFF00'>TRAVEL TIME</font>:
 <br/>
@@ -100,15 +100,15 @@ _mortar101 = player createDiaryRecord ["diary", ["Mortar 101", "
 <br/> 
 <br/><font size='16'>5.</font> Ensure mortar has correct <font color='#FF0000'>ROUND TYPE</font color> and <font color='#00FF00'>CHARGE TYPE</font color> selected:
 <br/>
-<br/><img image='Mortar101_4.jpg'/>
+<br/><img image='mortar101_4.jpg'/>
 <br/>
 <br/><font size='16'>6.</font> Ensure mortar is set to the correct <font color='#00FFFF'>ELEVATION</font color>:
 <br/>
-<br/><img image='Mortar101_5.jpg'/>
+<br/><img image='mortar101_5.jpg'/>
 <br/>
 <br/><font size='16'>7.</font> Fire mortar and use wrist watch to call 'Splash' when 1st round of salvo is 5 seconds away from impact:
 <br/>
-<br/><img image='Mortar101_6.jpg'/>
+<br/><img image='mortar101_6.jpg'/>
 <br/>
 <br/><font size='16'>8.</font> Reference 'Adjustment of Fire Guide' to adjust fire as needed:
 <br/>
