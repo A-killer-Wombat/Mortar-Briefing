@@ -2,10 +2,10 @@ Copy the code in the "Mortar Briefing Script.sqf" file and paste it into whichev
 Copy all the JPG image files and paste them into your mission folder. 
 
 Files included: 
-Mortar Briefing Script.sqf
-Mortar101_1.jpg
-Mortar101_2.jpg
-Mortar101_3.jpg
-Mortar101_4.jpg
-Mortar101_5.jpg
-Mortar101_6.jpg
+mortar_briefing_script.sqf
+mortar101_1.jpg
+mortar101_2.jpg
+mortar101_3.jpg
+mortar101_4.jpg
+mortar101_5.jpg
+mortar101_6.jpg
